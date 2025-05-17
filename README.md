@@ -1,7 +1,27 @@
 # 19CS416-CS-Ex-3-Linux-Commands
 
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
+# 3a - Oracle virtual box
+# Procedure:
+Visit the Official Website: Go to https://www.virtualbox.org/ to find the official download page.
+Select Your Operating System: Choose the version that matches your operating system (Windows, macOS, or Linux).
+Download the Installer: Click the appropriate link to download the installer for your system (e.g., .exe for Windows, .dmg for macOS).
+Run the Installer: Once the file is downloaded, open it and follow the on-screen instructions to complete the installation.
+Optional Extension Pack: After installation, you can download and install the Extension Pack for additional features, like USB support and RDP.
 
+## Output :
+![Screenshot 2025-05-17 112132](https://github.com/user-attachments/assets/3ac55e3e-5355-4d18-9eab-01870978270f)
+# 3b - kalli linux
+# Procedure
+Download Kali Linux ISO Image
+Create a Bootable USB Drive
+Boot from USB
+Install Kali Linux
+Complete Installation
+# Output:
+![Screenshot 2025-05-17 112317](https://github.com/user-attachments/assets/ca5529f7-17f8-47a7-8be1-ec822c0fdbcc)
+## 3c - Linux-Commands
+Linux is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
 ## Linux Commands
 
 Linux commands are executed in the terminal, which is case-sensitive. This guide covers some basic and advanced commands used in Linux.
